@@ -26,7 +26,7 @@ Projekt ukazuje mou zkušenost s programováním v C++, návrhem algoritmických
 
 Technologie
 
-C++
+C++, MFC, STL
 
 BMP – bitmapový formát obrazu
 
